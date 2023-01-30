@@ -1,0 +1,9 @@
+/* These 3 lines bring in the tailwind libraries */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* We can also define our own classes */
+.radial-blue {
+  background: radial-gradient(lightyellow, skyblue);
+}

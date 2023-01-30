@@ -1,0 +1,5 @@
+1. https://tailwindcss.com/
+2. create tailwind config file:  npx tailwindcss init
+3. tailwindcss -i ./src/input.css -o ./build/css/st
+yle.css
+4. npx tailwindcss -i ./src/input.css -o ./build/css/style.css --watch
